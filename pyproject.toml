@@ -1,5 +1,6 @@
 [tool.poetry]
 name = "mlops-zoomcamp"
+package-mode = false
 version = "0.1.0"
 description = "Environment for MLOps practice"
 authors = ["Aleksandr Salynskii <asalynskii@gmail.com>"]
